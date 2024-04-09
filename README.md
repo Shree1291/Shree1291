@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shriram Birajdar</h1>
 <h3 align="center">A passionate software developer from India :)</h3>
+[![Shree1291's GitHub | Stats](https://stats.quine.sh/Shree1291/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Shree1291)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shree1291&label=Profile%20views&color=0e75b6&style=flat" alt="Shree1291" /> </p>
 
