@@ -9,7 +9,7 @@
 
 - 📫 How to reach me shrirambirajdar8669@gmail.com
 
-- 📄 Link to my Resume [Resume](https://drive.google.com/file/d/1NeQg_PeizBmWqTHiFPJSmuviN2Eilf1W/view?usp=sharing)
+- 📄 Link to my Resume [Resume](4https://drive.google.com/file/d/1NeQg_PeizBmWqTHiFPJSmuviN2Eilf1W/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
