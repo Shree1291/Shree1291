@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shree1291&label=Profile%20views&color=0e75b6&style=flat" alt="Shree1291" /> </p>
 
-- 🌱 I’m currently learning Data Structure and Algorithms, DevOps
+- 🌱 I’m currently learning Data Structure and Algorithms, AI and ML
 
 - 💬 Ask me about C++,DSA
 
