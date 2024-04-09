@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/SHRIRAMBIR46358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanket67596246" height="30" width="40" /></a>
+<a href="https://twitter.com/SHRIRAMBIR46358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SHRIRAMBIR46358" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shriram-birajdar-5b32a022a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/shrirambirajdar1291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="30" width="40" /></a>
 </p>
@@ -26,7 +26,7 @@
 
 <p align="center">
 <a href="https://github.com/Shree1291">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanketdisale871&theme=algolia&show_icons=true&locale=en" alt="Shree1291" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shree1291&theme=algolia&show_icons=true&locale=en" alt="Shree1291" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shree1291&layout=compact&langs_count=8&theme=algolia"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shree1291&theme=tokyonight"/>	
 </a>
