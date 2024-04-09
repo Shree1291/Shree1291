@@ -9,8 +9,6 @@
 
 - 📫 How to reach me shrirambirajdar8669@gmail.com
 
-- 📄 Link to my Resume [Resume](4https://drive.google.com/file/d/1NeQg_PeizBmWqTHiFPJSmuviN2Eilf1W/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/SHRIRAMBIR46358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SHRIRAMBIR46358" height="30" width="40" /></a>
